@@ -4,6 +4,8 @@ html {
  *, *:before, *:after {
   box-sizing: inherit;
 }
+body {
+background-color: #6B825C;
   .wrapper {
   max-width: 960px; /* 20px smaller, to fit the paddings on the sides */
 min-height: 100%;
