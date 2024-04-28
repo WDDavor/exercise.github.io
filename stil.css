@@ -57,7 +57,7 @@ min-height: 100%;
 
 /* Middle column */
 .column.middle {
- 
+  text-align: center;
   width: 50%;
 }
 
